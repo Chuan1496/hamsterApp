@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.dart_tool",
+    "\\.idea",
+    "\\android",
+    "\\android\\app",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\android\\app\\src\\main\\java",
+    "\\build",
+    "\\test"
+  ],
+  "PreviewInSolutionExplorer": false
+}
