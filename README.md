@@ -1,16 +1,28 @@
-# hamster
+# hamsterApp
+A sample application that demonstrate practices when using isolates. A new Flutter project.
 
-A new Flutter project.
+## Goals
+* Display the performance benefits of isolates when using them in the right situation.
+* Show how to use the compute method for straightforward computations.
+* Demonstrate how to initialize and use an isolate.
+* Show the cost of moving data between isolates and provide alternatives.
 
-## Getting Started
+## The important bits
 
-This project is a starting point for a Flutter application.
+### `main.dart`
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### `feeding.dart`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### `behavior.dart`
+
+
+### `weight.dart`
+
+
+### `environment.dart`
+
+
+
+
